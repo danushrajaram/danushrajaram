@@ -1,25 +1,58 @@
-<h1 align="center">Hi 👋, I'm Danush</h1>
-<h3 align="center">Junior Data Analyst</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danushrajaram&label=Profile%20views&color=0e75b6&style=flat" alt="danushrajaram" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danushrajaram" alt="danushrajaram" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [2811night.vercel.app](2811night.vercel.app)
-
-- 📫 How to reach me **danush1503@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/danushrajaram" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/134055382?s=400&u=6fc8c6dc4010a8f404b1105f1b683c808cefacf6&v=4" alt="danushrajaram" height="30" width="40" /></a>
-<a href="https://instagram.com/danush_analytix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danush_analytix" height="30" width="40" /></a>
+<p align="center"> 
+  <img width="200" src="https://avatars.githubusercontent.com/u/134055382?s=400&u=6fc8c6dc4010a8f404b1105f1b683c808cefacf6&v=4"> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Danush Rajaram</h1> 
+<h3 align="center">Junior Data Analyst | Turning Data into Insights</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danushrajaram&show_icons=true&locale=en&layout=compact" alt="danushrajaram" /></p>
+<div align="center"> 
+  ![Profile Views](https://komarev.com/ghpvc/?username=danushrajaram&color=blue)
+  ![GitHub Followers](https://img.shields.io/github/followers/danushrajaram?style=social)
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&locale=en" alt="danushrajaram" /></p>
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=tokyonight" /> 
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=tokyonight" /> 
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&" alt="danushrajaram" /></p>
+🚀 **About Me**  
+<img align="right" width="35%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 Currently analyzing datasets and building dashboards
+- 🌱 Mastering Python, SQL, and Cloud Technologies
+- 👯 Looking to collaborate on Data Analysis & ML Projects
+- 💬 Ask me about Data Visualization, ETL Processes, or SQL Optimization
+- ⚡ Fun fact: I believe coffee ☕ and datasets 📊 make the perfect pair!
+
+🛠️ **Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0088D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+🌐 **Connect With Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com/)
+
+📊 **GitHub Analytics**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=tokyonight)  
+![Activity Graph](https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=tokyonight)
+
+📝 **Latest Blog Posts**  
+<!-- BLOG-POST-LIST:START -->
+Coming soon! Watch this space 👀
+<!-- BLOG-POST-LIST:END -->
+
+😂 **Jokes Card**  
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
+
+**Credits:** Danush Rajaram  
+**Last update:** 2023-10-15
