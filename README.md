@@ -40,9 +40,27 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com/)
 
-📊 **GitHub Analytics**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=tokyonight)  
-![Activity Graph](https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=tokyonight)
+📊 **GitHub Analytics Hub**  
+
+### 🗣️ Language Diversity 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=donut-3d&theme=tokyonight&card_height=220&hide_border=true)](https://github.com/danushrajaram)
+
+### 📈 Activity Matrix
+<div align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&area=true&hide_border=true" />
+</div>
+
+### ⚡ Performance Quadrant
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&card_height=220" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=tokyonight&fire=DD472C&ring=DD7230&currStreakNum=DDC4C4&hide_border=true" />
+</div>
+
+### 🌟 Contribution Spectrum
+![Contribution Calendar](https://github.com/danushrajaram/danushrajaram/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
+
+### 📦 Repository Spotlight
+[![Featured Repo](https://github-readme-stats.vercel.app/api/pin/?username=danushrajaram&repo=your-best-repo&theme=tokyonight&show_owner=true)](https://github.com/danushrajaram/your-best-repo)
 
 📝 **Latest Blog Posts**  
 <!-- BLOG-POST-LIST:START -->
