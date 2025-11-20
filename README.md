@@ -1,6 +1,6 @@
 # Hi There! 👋🏼
 
-<p align="center"> 
+<p align="left"> 
   <img width="200" src="https://avatars.githubusercontent.com/u/134055382?s=400&u=6fc8c6dc4010a8f404b1105f1b683c808cefacf6&v=4" alt="Danush Rajaram"> 
 </p>
 
