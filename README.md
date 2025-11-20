@@ -4,9 +4,6 @@
   <img width="200" src="https://avatars.githubusercontent.com/u/134055382?s=400&u=6fc8c6dc4010a8f404b1105f1b683c808cefacf6&v=4" alt="Danush Rajaram"> 
 </p>
 
-<h1 align="center">Hi 👋, I'm Danush Rajaram</h1>
-<h3 align="center">Junior Data Analyst | Turning Data into Insights</h3>
-
 <div align="center">
   <a href="https://github.com/danushrajaram?tab=followers">
     <img src="https://img.shields.io/github/followers/danushrajaram?label=Followers&style=social" alt="GitHub Followers">
@@ -19,20 +16,7 @@
 ---
 
 ## About Me
-AI Engineer | Building GenAI Projects | ☕ Fueled by Coffee & Curiosity  
-
-I’m a Junior Data Analyst passionate about turning raw data into meaningful insights.  
-With experience in AI-powered applications and machine learning models, I thrive in solving data challenges and optimizing processes.
-
-### 🔍 What I Do
-📊 Data Analysis & Visualization – Creating dashboards and extracting insights  
-🏗 Machine Learning & AI – Assisting in CNN-based image processing projects  
-🛠 ETL & Automation – Streamlining workflows with Python & SQL  
-☁ Cloud & API Integration – Supporting model deployments  
-
-💬 Ask me about Data Visualization, ETL, or SQL Optimization  
-⚡ Fun fact: Coffee ☕ + Datasets 📊 = Productivity!
-
+Data Engineer| Building GenAI& Data Eng Projects | ☕ Fueled by Coffee & Curiosity  
 ---
 
 ## Techstack
@@ -62,6 +46,7 @@ With experience in AI-powered applications and machine learning models, I thrive
 </div>
 
 ---
+
 
 ## 🛠️ Tech Stack  
 
