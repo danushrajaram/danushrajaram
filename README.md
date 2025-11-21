@@ -2,26 +2,7 @@
 # 👋🏼 Hi There!
 
 ## About Me  
-Data Engineer | Building GenAI Projects | ☕ Fuelled by Coffee & Curiosity
-
----
-
-## 🧠 Techstack
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=grey)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=grey)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=grey)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=grey)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=grey)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=grey)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=grey)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=grey)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=grey)
-![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=grey)
-![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-000000?style=for-the-badge&logo=amazon-aws&logoColor=grey)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=grey)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graph&logoColor=grey)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ai&logoColor=grey)
+Data Engineer 
 
 ---
 
@@ -38,7 +19,23 @@ Data Engineer | Building GenAI Projects | ☕ Fuelled by Coffee & Curiosity
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,matplotlib,pandas,streamlit,mysql,postgresql,mssql,mongodb,aws,azure,powerbi,tableau,excel,html,css,nextjs,vercel,git,github,postman" />
+
+  <!-- Skillicons-supported -->
+  <img src="https://skillicons.dev/icons?i=python,django,flask,streamlit,mysql,postgresql,mongodb,aws,azure,html,css,nextjs,vercel,git,github,postman,react,tailwind,docker" />
+
+  <!-- SimpleIcons (not available on skillicons) -->
+  <img height="48" src="https://cdn.simpleicons.org/pandas/ffffff" />
+  <img height="48" src="https://cdn.simpleicons.org/matplotlib/ffffff" />
+  <img height="48" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
+  <img height="48" src="https://cdn.simpleicons.org/powerbi/F2C811" />
+  <img height="48" src="https://cdn.simpleicons.org/tableau/E97627" />
+  <img height="48" src="https://cdn.simpleicons.org/microsoftexcel/217346" />
+  <img height="48" src="https://cdn.simpleicons.org/sql/4479A1" />
+  <img height="48" src="https://cdn.simpleicons.org/plotly/3F4F75" />
+
+  <!-- Data Analysis replacement icon -->
+  <img height="48" src="https://cdn.simpleicons.org/googleanalytics/E37400" />
+
 </p>
 
 ---
