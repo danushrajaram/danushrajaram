@@ -60,14 +60,14 @@ Data Engineer | Building GenAI & Data Engineering Projects | ☕ Fueled by Coffe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
   <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-original.svg" height="50" />
+<img src="https://simpleicons.org/icons/microsoftexcel.svg" height="50" />
  <img width="12" />
 
-  <img src="https://skillicons.dev/icons?i=powerbi" height="50" />
-  <img width="12" />
+<img src="https://simpleicons.org/icons/powerbi.svg" height="50" />  <img width="12" />
+<img width="12" />
 
-  <img src="https://skillicons.dev/icons?i=tableau" height="50" />
-  <img width="12" />
+<img src="https://simpleicons.org/icons/tableau.svg" height="50" />
+<img width="12" />
 
   <img src="https://skillicons.dev/icons?i=django" height="50" />
   <img width="12" />
