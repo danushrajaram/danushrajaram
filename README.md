@@ -57,8 +57,8 @@
 
 ---
 
-## 🐍 Snake Game – Contributions Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danushrajaram/danushrajaram/output/snake.svg" alt="snake animation"/>
+[<p align="center">
+  <img src="https://raw.githubusercontent.com/danushrajaram/danushrajaram/output/snake.svg" />
 </p>
+](https://raw.githubusercontent.com/danushrajaram/Danush/output/snake.svg
+)
