@@ -1,153 +1,143 @@
-# Hi there, I'm Danush Rajaram 👋
-
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" alt="Profile Icon" width="150" style="border-radius:50%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Berlin%20Bruno&reversal=true&fontAlign=50&animation=fadeIn&fontSize=50&desc=@danushrajaram&descAlign=50&descAlignY=60"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danushrajaram&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=48&pause=1000&center=true&vCenter=true&random=false&width=1200&height=100&lines=Java+FullStack+Developer" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
-Hey! I'm **Danush**, a data geek who loves turning messy datasets into clean insights. I vibe equally with SQL queries, model tuning, and building cool frontend stuff in React. Always learning, always experimenting.
+## 🚀 A Passionate Full Stack Developer  
 
-I enjoy:
-- Data analysis & engineering
-- Building dashboards
-- Predictive modeling
-- Crafting clean visuals and smooth UI
+- 🌱 Currently exploring **Microservices**, **Go**, and **Cloud Architectures**  
+- 💬 Ask me about **React**, **Next.js**, **Spring Boot**, and **Docker**  
+- 🌐 Check out my portfolio: [**danushrajaram.dev**](https://danushrajaram.dev)  
+- 📫 Reach me at **danushrajaram112@gmail.com**  
 
 ---
 
-## 🛠️ Tech Stack
-### Languages & Tools (Data Analyst / Engineer Focus)
+## 📌 Featured Projects  
 
-<p align="left">
+### 🎨 [PostIt - Interactive Image Sharing App](https://postitmedia.netlify.app/)  
+A React-based platform for sharing and downloading images, featuring Google OAuth and Sanity CMS.  
 
-<img src="https://skillicons.dev/icons?i=python" width="50" />
-<img src="https://skillicons.dev/icons?i=typescript" width="50" />
-<img src="https://skillicons.dev/icons?i=javascript" width="50" />
-<img src="https://skillicons.dev/icons?i=java" width="50" />
-<img src="https://skillicons.dev/icons?i=go" width="50" />
+### 🌍 [Personal Portfolio](https://danushrajaram.dev)  
+A dynamic portfolio showcasing projects, skills, and blog posts with animations and a CMS backend.  
 
-<img src="https://skillicons.dev/icons?i=mysql" width="50" />
-<img src="https://skillicons.dev/icons?i=postgres" width="50" />
-<img src="https://skillicons.dev/icons?i=sqlite" width="50" />
-<img src="https://skillicons.dev/icons?i=aws" width="50" />
-<img src="https://skillicons.dev/icons?i=azure" width="50" />
-
-<img src="https://skillicons.dev/icons?i=react" width="50" />
-<img src="https://skillicons.dev/icons?i=nextjs" width="50" />
-<img src="https://skillicons.dev/icons?i=git" width="50" />
-<img src="https://skillicons.dev/icons?i=github" width="50" />
-<img src="https://skillicons.dev/icons?i=vscode" width="50" />
-
-</p>
+### 🏗️ [Next.js Starter Template](https://github.com/danushrajaram/nextjs-starter)  
+A powerful Next.js template with React, TypeScript, Tailwind CSS, and more for building scalable applications.  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=tokyonight" />
-</p>
+<table align="left">
+    <tr>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://skillicons.dev/icons?i=html" alt="icon" width="48" height="48" />
+            </a>
+            <br>HTML
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=css" alt="icon" width="48" height="48" />
+            <br>CSS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="48" height="48" />
+            <br>JavaScript
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="48" height="48" />
+            <br>TypeScript
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=java" alt="icon" width="48" height="48" />
+            <br>Java
+        </td>
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="48" height="48" />
+            <br>C#
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+            <br>Go
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+            <br>Bootstrap
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+            <br>Tailwind
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="tailwind" />
+            <br>Tailwind
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=react" alt="icon" width="48" height="48" />
+            <br>React
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
+            <br>NextJS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="NextJS" />
+            <br>Astro
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="NextJS" />
+            <br>Spring
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+            <br>MongoDB
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="48" height="48" />
+            <br>MySQL
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="65" height="65" />
+            <br>AWS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="65" height="65" />
+            <br>Azure
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="65" height="65" />
+            <br>Azure
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=github" alt="icon" width="65" height="65" />
+            <br>Github
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+            <br>Git
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+            <br>VsCode
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
+            <br>Docker
+        </td>
+    </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=tokyonight" />
-</p>
 
----
-
-## 🔥 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=tokyonight" />
-</p>
-
----
-# snk
-
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-
-Generates a snake game from a GitHub user contributions graph.
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-Pull a GitHub user's contribution graph.  
-Make it a snake Game — generate a snake path where the cells get eaten in an orderly fashion.
-
-Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.  
-Colors can [be](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-ocean.svg)  
-[customized](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg).
-
-Available as a GitHub Action. It can automatically generate a new image each day, which makes for great [GitHub profile README](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-
----
-
-### **Interactive Demo**
-
-<a href="https://platane.github.io/snk">
-  <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
-</a>
-
-https://platane.github.io/snk
-
----
-
-### **Local Use**
-
-```
-npm install
-npm run dev:demo
-```
-
----
-
-## Implementation
-
-See the solver algorithm:  
-`./packages/solver/README.md`
-
----
-
-## Contribution Policy
-
-This project does not accept pull requests.  
-Issues are welcome, but API/implementation changes must be discussed first and are unlikely to be accepted.
-
----
-
-## ✨ Extra Goodies
-- Always cooking new data experiments 🍳  
-- Obsessed with dashboards & clean UI  
-- Big believer in learning-by-building  
-
----
-
-## 📬 Connect with me
-Feel free to reach out for collabs or questions!
-
-**Email:** your-email@example.com
-
----
-
-_Keep building. Keep breaking. Keep learning._ ⚡
