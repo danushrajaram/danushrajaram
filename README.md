@@ -1,7 +1,7 @@
 # Hi There! 👋🏼
 
-<p align="left"> 
-  <img width="200" src="https://avatars.githubusercontent.com/u/134055382?s=400&u=6fc8c6dc4010a8f404b1105f1b683c808cefacf6&v=4" alt="Danush Rajaram"> 
+<p align="left">
+  <img width="200" src="https://avatars.githubusercontent.com/u/134055382?s=400&u=6fc8c6dc4010a8f404b1105f1b683c808cefacf6&v=4" alt="Danush Rajaram">
 </p>
 
 <div align="center">
@@ -12,8 +12,9 @@
 
 ---
 
-## About Me
+## About Me  
 Data Engineer | Building GenAI & Data Engineering Projects | ☕ Fueled by Coffee & Curiosity  
+
 ---
 
 ## Techstack
@@ -30,21 +31,19 @@ Data Engineer | Building GenAI & Data Engineering Projects | ☕ Fueled by Coffe
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=grey)
 ![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-000000?style=for-the-badge&logo=amazon-aws&logoColor=grey)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=grey)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graph&logoColor=grey)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=python&logoColor=grey)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=openai&logoColor=grey)
 
 ---
 
-## My GitHub Contributions This Year 
-<div align="center">
-  
-![GitHub Contribution Graph](https://ssr-contributions-svg.vercel.app/_/7rohxt?chart=3dbar&gap=0.6&scale=100&flatten=0&animation=wave&animation_duration=1&animation_delay=0.03&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40)
+## My GitHub Contributions This Year  
 
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/7rohxt?chart=3dbar&gap=0.6&scale=100&flatten=0&animation=wave&animation_duration=1&animation_delay=0.03&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40" />
 </div>
 
 ---
 
-## 🛠️ Tech Stack  
 ## 🛠️ Tech Stack  
 
 <div align="left">
@@ -60,14 +59,15 @@ Data Engineer | Building GenAI & Data Engineering Projects | ☕ Fueled by Coffe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
   <img width="12" />
 
-<img src="https://simpleicons.org/icons/microsoftexcel.svg" height="50" />
- <img width="12" />
+  <!-- Excel fixed -->
+  <img src="https://simpleicons.org/icons/microsoftexcel.svg" height="50" />
+  <img width="12" />
 
-<img src="https://simpleicons.org/icons/powerbi.svg" height="50" />  <img width="12" />
-<img width="12" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="50" />
+  <img width="12" />
 
-<img src="https://simpleicons.org/icons/tableau.svg" height="50" />
-<img width="12" />
+  <img src="https://skillicons.dev/icons?i=tableau" height="50" />
+  <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=django" height="50" />
   <img width="12" />
@@ -88,7 +88,7 @@ Data Engineer | Building GenAI & Data Engineering Projects | ☕ Fueled by Coffe
   <img src="https://skillicons.dev/icons?i=aws" height="50" />
   <img width="12" />
 
-  <!-- Azure fallback fix -->
+  <!-- Azure fixed -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" />
   <img width="12" />
 
@@ -112,15 +112,15 @@ Data Engineer | Building GenAI & Data Engineering Projects | ☕ Fueled by Coffe
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=tokyonight">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&area=true&hide_border=true">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&area=true&hide_border=true" />
 </div>
 
 ---
@@ -129,24 +129,24 @@ Data Engineer | Building GenAI & Data Engineering Projects | ☕ Fueled by Coffe
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com/)  
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danushrajaram&repo=your-best-repo&theme=tokyonight)](https://github.com/danushrajaram/your-best-repo)
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 Latest Blog Posts  
 
-- [Data Cleaning Best Practices](https://yourblog.com/data-cleaning)
-- [Introduction to ETL Pipelines](https://yourblog.com/etl-pipelines)
+- [Data Cleaning Best Practices](https://yourblog.com/data-cleaning)  
+- [Introduction to ETL Pipelines](https://yourblog.com/etl-pipelines)  
 
 ---
 
