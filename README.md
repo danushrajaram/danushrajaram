@@ -46,69 +46,127 @@ Data Engineer | Building GenAI & Data Engineering Projects | ☕ Fueled by Coffe
 
 ## 🛠️ Tech Stack  
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="50" />
-  <img width="12" />
+<table align="left">
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+            <br>Python
+        </td>
+        <td align="center" width="96">
+            <img src="https://simpleicons.org/icons/microsoftexcel.svg" width="48" height="48" alt="Excel" />
+            <br>Excel
+        </td>
+        <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" />
+            <br>PostgreSQL
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" />
+            <br>MySQL
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" />
+            <br>MongoDB
+        </td>
+        <td align="center" width="96">
+            <img src="https://simpleicons.org/icons/powerbi.svg" width="48" height="48" />
+            <br>Power BI
+        </td>
+        <td align="center" width="96">
+            <img src="https://simpleicons.org/icons/tableau.svg" width="48" height="48" />
+            <br>Tableau
+        </td>
+    </tr>
 
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-  <img width="12" />
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=django" width="48" height="48" />
+            <br>Django
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" />
+            <br>Flask
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" />
+            <br>FastAPI
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=streamlit" width="48" height="48" />
+            <br>Streamlit
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" />
+            <br>Docker
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+            <br>Git
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
+            <br>GitHub
+        </td>
+    </tr>
 
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
-  <img width="12" />
+    <tr>
+        <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" />
+            <br>Azure
+        </td>
+        <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="48" height="48" />
+            <br>AWS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" />
+            <br>Firebase
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />
+            <br>VS Code
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" />
+            <br>Flutter
+        </td>
+        <td align="center" width="96">
+            <img src="https://simpleicons.org/icons/opencv.svg" width="48" height="48" />
+            <br>OpenCV
+        </td>
+        <td align="center" width="96">
+            <img src="https://simpleicons.org/icons/pytorch.svg" width="48" height="48" />
+            <br>PyTorch
+        </td>
+    </tr>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
-  <img width="12" />
-
-  <!-- Excel fixed -->
-  <img src="https://simpleicons.org/icons/microsoftexcel.svg" height="50" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=powerbi" height="50" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=tableau" height="50" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=django" height="50" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=flask" height="50" />
-  <img width="12" />
-
-  <!-- Next.js fixed -->
-  <img src="https://skillicons.dev/icons?i=next" height="50" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=aws" height="50" />
-  <img width="12" />
-
-  <!-- Azure fixed -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=git" height="50" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=postman" height="50" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=docker" height="50" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" />
-</div>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://simpleicons.org/icons/tensorflow.svg" width="48" height="48" />
+            <br>TensorFlow
+        </td>
+        <td align="center" width="96">
+            <img src="https://simpleicons.org/icons/scikitlearn.svg" width="48" height="48" />
+            <br>Scikit-Learn
+        </td>
+        <td align="center" width="96">
+            <img src="https://simpleicons.org/icons/huggingface.svg" width="48" height="48" />
+            <br>HuggingFace
+        </td>
+        <td align="center" width="96">
+            <img src="https://simpleicons.org/icons/langchain.svg" width="48" height="48" />
+            <br>LangChain
+        </td>
+        <td align="center" width="96">
+            <img src="https://simpleicons.org/icons/python.svg" width="48" height="48" />
+            <br>LangGraph
+        </td>
+        <td align="center" width="96">
+            <img src="https://simpleicons.org/icons/openai.svg" width="48" height="48" />
+            <br>Ollama
+        </td>
+    </tr>
+</table>
 
 ---
 
