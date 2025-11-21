@@ -1,31 +1,28 @@
-name: Generate Pac-Man Contribution Graph
+name: Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"     # runs daily
+    - cron: "0 0 * * *"   # runs daily at midnight
   workflow_dispatch:
 
 jobs:
-  pacman:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      # PAC-MAN SVG generator (this repo actually exists)
-      - name: Generate Pac-Man SVGs
+      - name: Run Pacman Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          username: danushrajaram
-          svg_out_path: "./pacman-contribution-graph.svg"
-          dark_svg_out_path: "./pacman-contribution-graph-dark.svg"
+          github_user_name: "danushrajaram"         # your GitHub username
+          github_token: ${{ secrets.GITHUB_TOKEN }} # auto-generated token
 
-      # Push generated SVG files into "output" branch
-      - name: Push Pac-Man SVGs to output branch
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Update Pac-Man contribution graph"
-          branch: output
-          file_pattern: "*.svg"
+      - name: Push Pac-Man output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git commit -m "Updated Pac-Man contribution graph" || echo "Nothing to commit"
+          git push
