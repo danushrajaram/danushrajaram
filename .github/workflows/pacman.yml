@@ -5,34 +5,29 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches:
+    branches: 
       - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
       - name: Generate Pac-Man SVGs
-        uses: Platane/contribution-graph@v2
+        uses: abozanona/snk@main
         with:
-          user_name: danushrajaram
-          format: pacman
-          color_dark: "#0f0f0f"
-          color_light: "#ffffff"
-          output_dir: dist
+          github_user_name: danushrajaram
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg
+          mode: pacman
 
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: pacman
-          path: dist/
-
-      - name: Upload to GitHub Pages
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist/
+          path: dist
 
   deploy:
     needs: build
@@ -42,7 +37,6 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
