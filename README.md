@@ -10,14 +10,14 @@
 
 ## 🚀 A Passionate Full Stack Developer  
 
-- 🌱 Currently exploring **Microservices**, **Go**, and **Cloud Architectures**  
-- 💬 Ask me about **React**, **Next.js**, **Spring Boot**, and **Docker**  
+- 🌱 Exploring **Microservices**, **Go**, **Cloud Architectures**  
+- 💬 Ask me about **React**, **Next.js**, **Spring Boot**, **Docker**  
 - 🌐 Portfolio: **https://danushrajaram.dev**  
-- 📫 Email: **danushrajaram112@gmail.com**  
+- 📫 Email: **danushrajaram112@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,cs,go,bootstrap,tailwind,materialui,react,nextjs,astro,spring,mongodb,mysql,aws,azure,gcp,github,git,vscode,docker" />
@@ -57,7 +57,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danushrajaram/Danush/output/snake.svg"/>
-</p>
+## 🐍 Snake Eating My Contributions
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danushrajaram/danushrajaram/output/snake.svg" />
+</p>
