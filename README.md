@@ -38,7 +38,7 @@ Data Engineer | Building GenAI Projects | ☕ Fuelled by Coffee & Curiosity
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,cs,go,bootstrap,tailwind,materialui,react,nextjs,astro,spring,mongodb,mysql,aws,azure,gcp,github,git,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,matplotlib,pandas,streamlit,mysql,postgresql,mssql,mongodb,aws,azure,powerbi,tableau,excel,html,css,nextjs,vercel,git,github,postman" />
 </p>
 
 ---
