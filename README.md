@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Berlin%20Bruno&reversal=true&fontAlign=50&animation=fadeIn&fontSize=50&desc=@danushrajaram&descAlign=50&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=danush%20Bruno&reversal=true&fontAlign=50&animation=fadeIn&fontSize=50&desc=@danushrajaram&descAlign=50&descAlignY=60"/>
 </p>
 
 <p align="center">
