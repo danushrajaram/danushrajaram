@@ -57,8 +57,7 @@
 
 ---
 
-[<p align="center">
-  <img src="https://raw.githubusercontent.com/danushrajaram/danushrajaram/output/snake.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danushrajaram/Danush/output/snake.svg"/>
 </p>
-](https://raw.githubusercontent.com/danushrajaram/Danush/output/snake.svg
-)
+
