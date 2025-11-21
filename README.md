@@ -7,6 +7,17 @@
 </p>
 
 ---
+# 👻 Pac-Man Contribution Graph Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/danushrajaram/danushrajaram/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/danushrajaram/danushrajaram/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" 
+       src="https://raw.githubusercontent.com/danushrajaram/danushrajaram/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ## 🚀 A Passionate Full Stack Developer  
 
@@ -57,8 +68,3 @@
 
 ---
 
-## 🐍 Snake Eating My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danushrajaram/danushrajaram/output/snake.svg" />
-</p>
