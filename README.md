@@ -8,15 +8,12 @@
   <a href="https://github.com/danushrajaram?tab=followers">
     <img src="https://img.shields.io/github/followers/danushrajaram?label=Followers&style=social" alt="GitHub Followers">
   </a>
-  <a href="https://github.com/danushrajaram?tab=repositories">
-    <img src="https://badges.pufler.dev/visits/danushrajaram/danushrajaram?color=blue" alt="Profile Views">
-  </a>
 </div>
 
 ---
 
 ## About Me
-Data Engineer| Building GenAI& Data Eng Projects | ☕ Fueled by Coffee & Curiosity  
+Data Engineer | Building GenAI & Data Engineering Projects | ☕ Fueled by Coffee & Curiosity  
 ---
 
 ## Techstack
@@ -32,9 +29,9 @@ Data Engineer| Building GenAI& Data Eng Projects | ☕ Fueled by Coffee & Curios
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=grey)
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=grey)
 ![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-000000?style=for-the-badge&logo=amazon-aws&logoColor=grey)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=grey)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=grey)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graph&logoColor=grey)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ai&logoColor=grey)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=openai&logoColor=grey)
 
 ---
 
@@ -47,48 +44,69 @@ Data Engineer| Building GenAI& Data Eng Projects | ☕ Fueled by Coffee & Curios
 
 ---
 
-
+## 🛠️ Tech Stack  
 ## 🛠️ Tech Stack  
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="50" />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=mysql" height="50" />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/file-type/file-type-excel.svg" height="50" />
+
+  <img src="https://skillicons.dev/icons?i=excel" height="50" />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=powerbi" height="50" />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=tableau" height="50" />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=django" height="50" />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=flask" height="50" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
+
+  <!-- Next.js fixed -->
+  <img src="https://skillicons.dev/icons?i=next" height="50" />
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=aws" height="50" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="50" />
+
+  <!-- Azure fallback fix -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=firebase" height="50" />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=git" height="50" />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=github" height="50" />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=postman" height="50" />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=docker" height="50" />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=flutter" height="50" />
 </div>
 
