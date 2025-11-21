@@ -60,7 +60,7 @@ Data Engineer | Building GenAI & Data Engineering Projects | ☕ Fueled by Coffe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
   <img width="12" />
 
- <img src="https://skillicons.dev/icons?i=excel" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-original.svg" height="50" />
  <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=powerbi" height="50" />
