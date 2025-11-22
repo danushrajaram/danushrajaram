@@ -18,14 +18,14 @@ Data Engineer
     <td align="center" width="110"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></td>
     <td align="center" width="110"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
     <td align="center" width="110"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></td>
-    <td align="center" width="110" height="70"><img src="https://img.shields.io/badge/AWS-FF9700?style=for-the-badge&logo=amazonaws&logoColor=white"/></td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/></td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
      
   </tr>
 
   <!-- Row 2 -->
   <tr>
+    <td align="center" width="110" height="70"><img src="https://img.shields.io/badge/AWS-FF9700?style=for-the-badge&logo=amazonaws&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
     <td align="center" width="110"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></td>
     <td align="center" width="110"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></td>
     <td align="center" width="110"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></td>
