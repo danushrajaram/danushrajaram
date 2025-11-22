@@ -4,175 +4,49 @@
 ## About Me  
 Data Engineer
 
----
-
-## 🟩 My GitHub Contributions This Year  
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danushrajaram/danushrajaram/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danushrajaram/danushrajaram/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/danushrajaram/danushrajaram/output/github-snake.svg" />
-</picture>
-
-
----
 
 ## 🛠️ Tech Stack  
 
-## 🛠️ Tech Stack  
-
-<table align="left">
+<table align="left" style="border-collapse: collapse;">
 
   <!-- Row 1 -->
   <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-    </td>
+    <td align="center" width="110" height="70"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></td>
+    <td align="center" width="110" height="70"><img src="https://img.shields.io/badge/AWS-FF9700?style=for-the-badge&logo=amazonaws&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
+     
   </tr>
 
   <!-- Row 2 -->
   <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-    </td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=for-the-badge&logo=amazonsagemaker&logoColor=white" />
-    </td>
-  </tr>
-
-  <!-- Row 4 -->
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    </td>
-  </tr>
-
-  <!-- Row 5 -->
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-
-  <!-- Row 6 -->
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    </td>
-  </tr>
-
-  <!-- Row 7 -->
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-    </td>
-  </tr>
-
-  <!-- Row 8 -->
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/GoogleAnalytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-    </td>
-  </tr>
-
-  <!-- Row 9 -->
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-    </td>
-  </tr>
-
-  <!-- Row 10 -->
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/LangChain-1E90FF?style=for-the-badge&logo=chainlink&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/LangGraph-6A5ACD?style=for-the-badge&logo=dependabot&logoColor=white" />
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-    </td>
+    <td align="center" width="110" height="70"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white"/></td>
+    <td align="center" width="110" height="70"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></td>
   </tr>
 
 </table>
-
 <br clear="both"/>
 ---
 
