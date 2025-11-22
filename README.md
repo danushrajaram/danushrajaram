@@ -9,7 +9,6 @@ Data Engineer
 
 <table align="left" style="border-collapse: collapse;">
 
-  <!-- Row 1 -->
   <tr>
     <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
     <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></td>
@@ -19,19 +18,16 @@ Data Engineer
     <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
     <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/AWS-FF9800?style=for-the-badge&logo=amazonaws&logoColor=white"/></td>
     <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/></td>
-  </tr>
-
-  <tr>
     <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
     <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></td>
     <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></td>
     <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></td>
-    <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></td>
-    <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/></td>
-    <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></td>
   </tr>
 
   <tr>
+    <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></td>
+    <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/></td>
+    <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></td>
     <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></td>
     <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></td>
     <td align="center" width="110" height="80"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></td>
