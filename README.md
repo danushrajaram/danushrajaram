@@ -8,11 +8,12 @@ Data Engineer
 
 ## 🟩 My GitHub Contributions This Year  
 
-<div align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danushrajaram/danushrajaram/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danushrajaram/danushrajaram/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/danushrajaram/danushrajaram/output/github-snake.svg" />
+</picture>
 
-![GitHub Contribution Graph](https://ssr-contributions-svg.vercel.app/_/danushrajaram?chart=3dbar&gap=0.6&scale=100&flatten=0&animation=wave&animation_duration=1&animation_delay=0.03&animation_amplitude=20&animation_frequency=0.1&animation_wave_left=0_3&format=svg&weeks=40)
-
-</div>
 
 ---
 
