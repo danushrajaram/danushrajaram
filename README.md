@@ -42,22 +42,22 @@ Data Engineer
 <table>
   <tr>
     <td align="left" width="50%">
+      <h3>🔥 Commit Streak</h3>
+      <img src="https://streak-stats.demolab.com/?user=danushrajaram&theme=radical" width="95%" />
+    </td> 
+   <td align="left" width="50%">
       <h3>📈 GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=radical" width="95%" />
     </td>
-    <td align="left" width="50%">
-      <h3>🔥 Commit Streak</h3>
-      <img src="https://streak-stats.demolab.com/?user=danushrajaram&theme=radical" width="95%" />
-    </td>
-  </tr>
+     </tr>
   <tr>
-    <td align="left" width="50%">
-      <h3>📈 Contribution Graph</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="95%" />
-    </td>
-    <td align="left" width="50%">
+    <td align="left" width="40%">
       <h3>📊 Most Used Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="95%" />
+    </td>
+    <td align="left" width="70%">
+      <h3>📈 Contribution Graph</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="95%" />
     </td>
   </tr>
 </table>
