@@ -33,31 +33,32 @@ Data Engineer
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=grey)
 
 
-<br clear="both"/>
+
+
 
 # 📊 **Dev Stats Overview**
 
-<div align="left">
+<div align="center">
 
 <table>
   <tr>
-    <td align="left" width="50%">
-      <h3>🔥 Commit Streak</h3>
-      <img src="https://streak-stats.demolab.com/?user=danushrajaram&theme=radical" width="95%" />
-    </td> 
-   <td align="left" width="50%">
+    <td align="center" width="50%">
       <h3>📈 GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=radical" width="95%" />
     </td>
-     </tr>
-  <tr>
-    <td align="left" width="30%">
-      <h3>📊 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="75%" />
+    <td align="center" width="50%">
+      <h3>🔥 Commit Streak</h3>
+      <img src="https://streak-stats.demolab.com/?user=danushrajaram&theme=radical" width="95%" />
     </td>
-    <td align="left" width="70%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <h3>📈 Contribution Graph</h3>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="95%" />
+    </td>
+    <td align="center" width="50%">
+      <h3>📊 Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="95%" />
     </td>
   </tr>
 </table>
@@ -68,7 +69,7 @@ Data Engineer
 
 ## 📬 Find Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/danushrajaram/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
