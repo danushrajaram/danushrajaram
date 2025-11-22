@@ -51,9 +51,9 @@ Data Engineer
     </td>
      </tr>
   <tr>
-    <td align="left" width="40%">
+    <td align="left" width="30%">
       <h3>📊 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="95%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="75%" />
     </td>
     <td align="left" width="70%">
       <h3>📈 Contribution Graph</h3>
