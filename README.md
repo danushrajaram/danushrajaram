@@ -1,11 +1,11 @@
 # **Danush Rajaram**
 # 👋🏼 Hi There!
 
-## About Me  
+### About Me  
 Data Engineer
 
 
-## 🛠️ Tech Stack  
+### Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=0C4B33)
@@ -35,7 +35,7 @@ Data Engineer
 
 
 
-## 📊 **Dev Stats Overview**
+### 📊 **Dev Stats Overview**
 <div align="center">
 <table>
   <tr>
@@ -62,14 +62,15 @@ Data Engineer
 <br clear="both"/>
 </div>
 
-## 📬 Find Me <p align="center">
+##### 📬 Find Me <p align="center">
   <a href="https://www.linkedin.com/in/danushrajaram/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_danush.15_/">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:danush1503@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+    <a href="https://www.instagram.com/_danush.15_/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
 </p>
