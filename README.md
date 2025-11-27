@@ -32,8 +32,6 @@ Data Engineer
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-# 📊 **Dev Stats Overview**
-
 
 # 📊 **Dev Stats Overview**
 
@@ -43,18 +41,18 @@ Data Engineer
   <tr>
     <td align="center" width="50%">
       <h5>📈 GitHub Stats</h5>
-      <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=radical" width="60%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=radical" width="70%" />
     </td>
     <td align="center" width="50%">
       <h5>🔥 Commit Streak</h5>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="60%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="70%" />
     </td>
   </tr>
 
   <tr>
     <td align="center" width="50%">
       <h5>📈 Contribution Graph</h5>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="60%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="80%" />
     </td>
     <td align="center" width="50%">
       <h5>📊 Most Used Languages</h5>
