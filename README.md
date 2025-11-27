@@ -43,10 +43,11 @@ Data Engineer
       <h5>📈 GitHub Stats</h5>
       <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=radical" width="70%" />
     </td>
-    <td align="center" width="50%">
-      <h5>🔥 Commit Streak</h5>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="70%" />
+        <td align="center" width="50%">
+      <h5>📊 Most Used Languages</h5>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="40%" />
     </td>
+
   </tr>
 
   <tr>
@@ -54,9 +55,9 @@ Data Engineer
       <h5>📈 Contribution Graph</h5>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="80%" />
     </td>
-    <td align="center" width="50%">
-      <h5>📊 Most Used Languages</h5>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="40%" />
+        <td align="center" width="50%">
+      <h5>🔥 Commit Streak</h5>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="40%" />
     </td>
   </tr>
 </table>
