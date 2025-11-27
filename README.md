@@ -34,45 +34,37 @@ Data Engineer
 
 
 
-# 📊 **Dev Stats Overview**
 
-# 📊 **Dev Stats Overview**
+## 📊 **Dev Stats Overview**
 
 <div align="center">
 
-<!-- ROW 1 -->
+<!-- 2×2 GRID WRAPPER -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-  <!-- GitHub Stats -->
-  <div style="flex: 1 1 300px; max-width: 50%; text-align: left; padding: 10px;">
+  <!-- 1️⃣ GitHub Stats -->
+  <div style="flex: 1 1 300px; max-width: 50%; text-align: left; padding: 15px;">
     <h5>📈 GitHub Stats</h5>
     <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=radical" width="80%" />
   </div>
 
-  <!-- Most Used Languages -->
-  <div style="flex: 1 1 300px; max-width: 50%; text-align: left; padding: 10px;">
+  <!-- 2️⃣ Most Used Languages -->
+  <div style="flex: 1 1 300px; max-width: 50%; text-align: left; padding: 15px;">
     <h5>📊 Most Used Languages</h5>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="80%" />
   </div>
 
-</div>
-
-<!-- ROW 2 -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-
-  <!-- Contribution Graph -->
-  <div style="flex: 1 1 300px; max-width: 50%; text-align: left; padding: 10px;">
+  <!-- 3️⃣ Contribution Graph -->
+  <div style="flex: 1 1 300px; max-width: 50%; text-align: left; padding: 15px;">
     <h5>📈 Contribution Graph</h5>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="80%" />
   </div>
 
-  <!-- Commit Streak -->
-  <div style="flex: 1 1 300px; max-width: 50%; text-align: left; padding: 10px;">
+  <!-- 4️⃣ Commit Streak -->
+  <div style="flex: 1 1 300px; max-width: 50%; text-align: left; padding: 15px;">
     <h5>🔥 Commit Streak</h5>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="80%" />
   </div>
-
-</div>
 
 </div>
 
