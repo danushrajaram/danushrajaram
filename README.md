@@ -33,6 +33,12 @@ Data Engineer
 
 
 # 📊 **Dev Stats Overview**
+    <!-- <td align="center" width="50%">
+      <h3>🔥 Commit Streak</h3>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="75%" />
+    </td> -->
+
+# 📊 **Dev Stats Overview**
 
 <div align="center">
 
@@ -40,28 +46,27 @@ Data Engineer
   <tr>
     <td align="center" width="50%">
       <h3>📈 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=radical" width="95%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=radical" width="90%" />
     </td>
-    <!-- <td align="center" width="50%">
-      <h3>🔥 Commit Streak</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="95%" />
-    </td> -->
   </tr>
+
   <tr>
     <td align="center" width="50%">
       <h3>📈 Contribution Graph</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="95%" />
-    </td></tr>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="90%" />
+    </td>
+  </tr>
 
-  <tr> <td align="center" width="50%">
+  <tr>
+    <td align="center" width="50%">
       <h3>📊 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="95%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="90%" />
     </td>
   </tr>
 </table>
+
 <br clear="both"/>
 </div>
-
 ---
 
 ## 📬 Find Me <p align="left">
