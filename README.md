@@ -49,11 +49,11 @@ Data Engineer
   </tr>
 
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="80%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="110%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="85%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="80%" />
     </td>
   </tr>
 </table>
