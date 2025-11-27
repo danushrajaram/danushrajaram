@@ -36,8 +36,11 @@ Data Engineer
 
 # 📊 **Dev Stats Overview**
 
+# 📊 **Dev Stats Overview**
+
 <div align="center">
-<!-- ROW WRAPPER -->
+
+<!-- ROW 1 -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
   <!-- GitHub Stats -->
@@ -46,7 +49,7 @@ Data Engineer
     <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=radical" width="80%" />
   </div>
 
-  <!-- Languages -->
+  <!-- Most Used Languages -->
   <div style="flex: 1 1 300px; max-width: 50%; text-align: left; padding: 10px;">
     <h5>📊 Most Used Languages</h5>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="80%" />
@@ -54,7 +57,7 @@ Data Engineer
 
 </div>
 
-<!-- SECOND ROW -->
+<!-- ROW 2 -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
   <!-- Contribution Graph -->
@@ -63,11 +66,13 @@ Data Engineer
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="80%" />
   </div>
 
-  <!-- Streak -->
+  <!-- Commit Streak -->
   <div style="flex: 1 1 300px; max-width: 50%; text-align: left; padding: 10px;">
     <h5>🔥 Commit Streak</h5>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="80%" />
   </div>
+
+</div>
 
 </div>
 
