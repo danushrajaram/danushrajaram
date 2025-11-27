@@ -35,36 +35,35 @@ Data Engineer
 
 # 📊 **Dev Stats Overview**
 
+# 📊 **Dev Stats Overview**
+
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="left" width="50%">
       <h5>📈 GitHub Stats</h5>
       <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=radical" width="80%" />
     </td>
-        <td align="center" width="50%">
+    <td align="left" width="50%">
       <h5>📊 Most Used Languages</h5>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="70%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="80%" />
     </td>
-
   </tr>
 
   <tr>
-    <td align="center" width="50%">
+    <td align="left" width="50%">
       <h5>📈 Contribution Graph</h5>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="90%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="80%" />
     </td>
-        <td align="center" width="50%">
+    <td align="left" width="50%">
       <h5>🔥 Commit Streak</h5>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="70%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="80%" />
     </td>
   </tr>
 </table>
-
 <br clear="both"/>
 </div>
----
 
 ## 📬 Find Me <p align="left">
   <a href="https://www.linkedin.com/in/danushrajaram/">
