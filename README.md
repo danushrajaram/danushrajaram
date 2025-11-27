@@ -50,7 +50,7 @@ Data Engineer
 <br/>
 <table>
   <tr>
-    <td align="center" width="60%">
+    <td align="center" width="50%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="110%" />
     </td>
     <td align="center" width="50%">
