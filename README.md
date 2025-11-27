@@ -57,7 +57,7 @@ Data Engineer
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="80%" />
     </td>
     <td align="left" width="50%">
-      <h5>🔥 Commit Streak</h5>
+      <h5>🔥 Commit Streak</h5> 
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="80%" />
     </td>
   </tr>
