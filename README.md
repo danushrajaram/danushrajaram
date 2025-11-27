@@ -13,7 +13,7 @@ Data Engineer
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9500)
 ![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=0089D6)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
@@ -33,10 +33,7 @@ Data Engineer
 
 
 # 📊 **Dev Stats Overview**
-    <!-- <td align="center" width="50%">
-      <h3>🔥 Commit Streak</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="75%" />
-    </td> -->
+
 
 # 📊 **Dev Stats Overview**
 
@@ -45,22 +42,23 @@ Data Engineer
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>📈 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=radical" width="90%" />
+      <h5>📈 GitHub Stats</h5>
+      <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=radical" width="60%" />
+    </td>
+    <td align="center" width="50%">
+      <h5>🔥 Commit Streak</h5>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="60%" />
     </td>
   </tr>
 
   <tr>
     <td align="center" width="50%">
-      <h3>📈 Contribution Graph</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="90%" />
+      <h5>📈 Contribution Graph</h5>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="60%" />
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="50%">
-      <h3>📊 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="90%" />
+      <h5>📊 Most Used Languages</h5>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="40%" />
     </td>
   </tr>
 </table>
