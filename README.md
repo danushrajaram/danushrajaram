@@ -37,17 +37,18 @@ Data Engineer
 
 ## 📊 **Dev Stats Overview**
 <div align="center">
-
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=radical" width="110%" />
+            <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=radical" width="110%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="75%" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="75%" />
     </td>
   </tr>
-
+</table>
+<br/>
+<table>
   <tr>
     <td align="center" width="60%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" width="110%" />
@@ -57,7 +58,6 @@ Data Engineer
     </td>
   </tr>
 </table>
-
 </div>
 <br clear="both"/>
 </div>
