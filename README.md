@@ -44,7 +44,7 @@ Data Engineer
     </td>
     <td align="center" width="50%">
       <h3>🔥 Commit Streak</h3>
-      <img src="https://streak-stats.demolab.com/?user=danushrajaram&theme=radical&cache_seconds=3600" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="95%" />
     </td>
   </tr>
   <tr>
