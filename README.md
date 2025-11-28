@@ -60,15 +60,19 @@ Data Engineer
 <br clear="both"/>
 </div>
 
-##### 📬 Find Me <p align="center">
+###### 📬 Find Me 
+<p align="left">
   <a href="https://www.linkedin.com/in/danushrajaram/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:danush1503@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-    <a href="https://www.instagram.com/_danush.15_/">
+  <a href="https://www.instagram.com/_danush.15_/">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=120&section=footer" />
 </p>
