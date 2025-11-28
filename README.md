@@ -71,7 +71,7 @@ Data Engineer
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=random,00BFFF,87CEEB&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" />
 </p>
 
 
