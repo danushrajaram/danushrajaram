@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Danush%20Rajaram&fontSize=50&fontAlignY=30&animation=fadeIn&desc=Data%20Engineer&descSize=30&descAlignY=58"/>
-</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Danush%20Rajaram&fontSize=55&fontAlignY=32&animation=fadeIn&desc=Data%20Engineer&descSize=32&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Danush%20Rajaram&fontSize=52&fontAlignY=32&animation=fadeIn&desc=Data%20Engineer&descSize=34&descAlignY=58"/>
 </p>
 
 
