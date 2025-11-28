@@ -1,15 +1,9 @@
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0A66C2,4BA3F5&text=Danush%20Rajaram&fontSize=55&animation=fadeIn&fontColor=ffffff&fontAlignY=40&desc=Data%20Engineer&descAlignY=65" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Danush%20Rajaram&fontSize=48&fontAlignY=35&animation=fadeIn&desc=Data%20Engineer&descSize=20&descAlignY=55"/>
 </p>
 
 
-# 👋🏼 Hi There!
-
-### About Me  
-Data Engineer
-
+## Hi There!👋🏼
 
 ### Tech Stack  
 <p align="left">
