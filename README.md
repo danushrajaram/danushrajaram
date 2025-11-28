@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Danush%20Rajaram&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer&descAlignY=65"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0A66C2,4BA3F5&text=Danush%20Rajaram&fontSize=55&animation=fadeIn&fontColor=ffffff&fontAlignY=40&desc=Data%20Engineer&descAlignY=65" 
+  />
 </p>
+
 
 # 👋🏼 Hi There!
 
