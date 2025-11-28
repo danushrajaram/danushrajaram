@@ -6,7 +6,7 @@ Data Engineer
 
 
 ### Tech Stack  
-[Python](https://img.shields.io/badge/Python-D9D9D9?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=3776AB)
+![Python](https://img.shields.io/badge/Python-D9D9D9?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=3776AB)
 ![Django](https://img.shields.io/badge/Django-D9D9D9?style=for-the-badge&logo=django&logoColor=0C4B33&labelColor=0C4B33)
 ![Flask](https://img.shields.io/badge/Flask-D9D9D9?style=for-the-badge&logo=flask&logoColor=000000&labelColor=000000)
 ![MySQL](https://img.shields.io/badge/MySQL-D9D9D9?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=4479A1)
