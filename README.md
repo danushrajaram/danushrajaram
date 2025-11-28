@@ -16,13 +16,14 @@
 <img src="https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 <img src="https://img.shields.io/badge/AWS-101010?style=for-the-badge&logo=aws&logoColor=0078D4"/>
 <img src="https://img.shields.io/badge/Azure-101010?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
-<img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Postman-101010?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 <img src="https://img.shields.io/badge/Docker-101010?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Jenkins-101010?style=for-the-badge&logo=jenkins&logoColor=D24939"/>
 <img src="https://img.shields.io/badge/PowerBI-101010?style=for-the-badge&logo=tableau&logoColor=E97627"/>
 <img src="https://img.shields.io/badge/Tableau-101010?style=for-the-badge&logo=tableau&logoColor=E97627"/>
 <img src="https://img.shields.io/badge/Excel-101010?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+  <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Postman-101010?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 <img src="https://img.shields.io/badge/TensorFlow-101010?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
 <img src="https://img.shields.io/badge/OpenCV-101010?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 <img src="https://img.shields.io/badge/HuggingFace-101010?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
