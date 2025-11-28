@@ -6,30 +6,30 @@ Data Engineer
 
 
 ### Tech Stack  
-<p align="center">
-<img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Django-1A1A1A?style=for-the-badge&logo=django&logoColor=0C4B33"/>
-<img src="https://img.shields.io/badge/Flask-1A1A1A?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/MySQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/MongoDB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/AWS-1A1A1A?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Azure-1A1A1A?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
-<img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Postman-1A1A1A?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/PowerBI-1A1A1A?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Tableau-1A1A1A?style=for-the-badge&logo=tableau&logoColor=E97627"/>
-<img src="https://img.shields.io/badge/Excel-1A1A1A?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
-<img src="https://img.shields.io/badge/TensorFlow-1A1A1A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/OpenCV-1A1A1A?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/HuggingFace-1A1A1A?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/HTML-1A1A1A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS-1A1A1A?style=for-the-badge&logo=css3&logoColor=2965F1"/>
-<img src="https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Tailwind-1A1A1A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Vercel-1A1A1A?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Python-404040?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Django-404040?style=for-the-badge&logo=django&logoColor=0C4B33"/>
+<img src="https://img.shields.io/badge/Flask-404040?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MySQL-404040?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/PostgreSQL-404040?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/MongoDB-404040?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/AWS-404040?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Azure-404040?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
+<img src="https://img.shields.io/badge/Git-404040?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-404040?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Postman-404040?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Docker-404040?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/PowerBI-404040?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Tableau-404040?style=for-the-badge&logo=tableau&logoColor=E97627"/>
+<img src="https://img.shields.io/badge/Excel-404040?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+<img src="https://img.shields.io/badge/TensorFlow-404040?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/OpenCV-404040?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/HuggingFace-404040?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/HTML-404040?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS-404040?style=for-the-badge&logo=css3&logoColor=2965F1"/>
+<img src="https://img.shields.io/badge/Next.js-404040?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Tailwind-404040?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Vercel-404040?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 </p>
 
 ### **Dev Stats Overview**
