@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Danush%20Rajaram&fontSize=50&fontAlignY=30&animation=fadeIn&desc=Data%20Engineer&descSize=30&descAlignY=58"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Danush%20Rajaram&fontSize=58&fontAlignY=32&animation=fadeIn&desc=Data%20Engineer&descSize=26&descAlignY=58"/>
+</p>
+
+
 
 
 
