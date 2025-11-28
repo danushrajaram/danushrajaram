@@ -1,4 +1,7 @@
-# **Danush Rajaram**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Danush%20Rajaram&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer&descAlignY=65"/>
+</p>
+
 # 👋🏼 Hi There!
 
 ### About Me  
