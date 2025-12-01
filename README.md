@@ -41,8 +41,8 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+   <td align="center" width="50%">
+      <img src="https://githubstats.me/api?username=danushrajaram&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
     </td>
     <td align="center" width="50%">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushrajaram&layout=compact&theme=radical" width="75%" />
