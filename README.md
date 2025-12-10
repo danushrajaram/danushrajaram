@@ -37,24 +37,6 @@
 <img src="https://img.shields.io/badge/Vercel-101010?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 </p>
 
-### **Dev Stats Overview**
-<div align="center">
-<table>
-
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical" width="80%" />
-    </td>
-    <td align="center" width="50%">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark" width="110%"/>
-     </td>
-  
-  </tr>
-</table>
-</div>
-<br clear="both"/>
-</div>
-
 ### 📬 Find Me 
 <p align="left">
 <a href="https://www.linkedin.com/in/danushrajaram/">
