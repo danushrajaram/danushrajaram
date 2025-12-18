@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/Django-101010?style=for-the-badge&logo=django&logoColor=0C4B33"/>
 <img src="https://img.shields.io/badge/Flask-101010?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Apache%20Spark-101010?style=for-the-badge&logo=apachespark&logoColor=E25A1C"/>
-<img src="https://img.shields.io/badge/PySpark-101010?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 <img src="https://img.shields.io/badge/AWS-101010?style=for-the-badge&logo=aws&logoColor=0078D4"/>
