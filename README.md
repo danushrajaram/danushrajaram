@@ -14,8 +14,9 @@
 <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Django-101010?style=for-the-badge&logo=django&logoColor=0C4B33"/>
 <img src="https://img.shields.io/badge/Flask-101010?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-101010?style=for-the-badge&logo=apachespark&logoColor=E25A1C"/>
+<img src="https://img.shields.io/badge/PySpark-101010?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 <img src="https://img.shields.io/badge/AWS-101010?style=for-the-badge&logo=aws&logoColor=0078D4"/>
 <img src="https://img.shields.io/badge/Azure-101010?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
@@ -24,17 +25,9 @@
 <img src="https://img.shields.io/badge/PowerBI-101010?style=for-the-badge&logo=tableau&logoColor=E97627"/>
 <img src="https://img.shields.io/badge/Tableau-101010?style=for-the-badge&logo=tableau&logoColor=E97627"/>
 <img src="https://img.shields.io/badge/Excel-101010?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
-  <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Postman-101010?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/TensorFlow-101010?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/OpenCV-101010?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/HuggingFace-101010?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/HTML-101010?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS-101010?style=for-the-badge&logo=css3&logoColor=2965F1"/>
-<img src="https://img.shields.io/badge/Next.js-101010?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Tailwind-101010?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Vercel-101010?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 </p>
 
 ### 📬 Find Me 
